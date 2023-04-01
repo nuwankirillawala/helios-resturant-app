@@ -8,7 +8,7 @@ const MenuItem = ({title, price, tags}) => (
       </div>
 
       <div className="app__menuItem-dash" />
-      <div className="app__menuItem-name">
+      <div className="app__menuItem-price">
         <p className="p__cormorant">{price}</p>
       </div>
     </div>
