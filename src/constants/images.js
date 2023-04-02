@@ -20,6 +20,11 @@ import award05 from '../assets/award05.png';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import helios from '../assets/helios.png';
+import aboutheader from '../assets/aboutheader.png'
+import historyleft from '../assets/historyleft.png'
+import historyright from '../assets/historyright.png'
+
+
 
 export default {
   bg,
@@ -44,4 +49,7 @@ export default {
   sign,
   quote,
   helios,
+  aboutheader,
+  historyleft,
+  historyright,
 };
