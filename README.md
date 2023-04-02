@@ -1,4 +1,3 @@
-# helios-resturant-app
 # Helios Restaurant Web App
 
 This is a web application for the Helios restaurant, built using React, Sass, and Vite. The app allows users to view the restaurant menu, restaurant details, and book a table.
