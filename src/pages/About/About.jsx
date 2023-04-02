@@ -1,6 +1,6 @@
 import React from 'react'
 import { Navbar } from '../../components'
-import { AboutHeader, AboutHistory } from '../../container'
+import { AboutHeader, AboutHistory, HappyHours } from '../../container'
 
 const About = () => {
   return (
@@ -8,6 +8,7 @@ const About = () => {
         <Navbar />
         <AboutHeader />
         <AboutHistory />
+        <HappyHours />
     </div>
   )
 }
